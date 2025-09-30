@@ -57,7 +57,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 ## 🐍 Mon activité GitHub
 
-![Snake animation](https://github.com/TonPseudo/TonPseudo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
