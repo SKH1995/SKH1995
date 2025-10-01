@@ -1,4 +1,4 @@
-
+[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
 <h1 align="center">👋 Salut, moi c'est TonPseudo</h1>
 <p align="center">
   Je transforme des idées complexes en code fiable, sécurisé et évolutif.
