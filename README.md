@@ -66,7 +66,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=SKH1995&layout=compact&theme=radical)
 
 ### 📈 Contribution Streak
-![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=SKH1995&theme=radical&hide_border=true)
 
 
 ---
