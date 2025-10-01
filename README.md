@@ -62,7 +62,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ### 🚀 Mes Stats GitHub
 
 ### 🔥 Langages les plus utilisés
-![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=50)
+![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25)
 
 ### 📈 Contribution Streak
 ![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=radical&hide_border=true)
