@@ -1,5 +1,10 @@
+<!--
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishikagupta__?style=social)](https://twitter.com/Rishika5000)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
+-->
 [![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
-<h1 align="center">👋 Salut, moi c'est TonPseudo</h1>
+<h1 align="center">👋 Salut, moi c'est TonPseudo <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
+
 <p align="center">
   Je transforme des idées complexes en code fiable, sécurisé et évolutif.
 </p>
