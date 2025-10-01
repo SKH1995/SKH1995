@@ -60,7 +60,6 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
 
 ### 🚀 Mes Stats GitHub
-![Mes Stats](https://github-readme-stats.vercel.app/api?username=SKH1995&show_icons=true&theme=radical)
 
 ### 🔥 Langages les plus utilisés
 ![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical)
@@ -70,9 +69,6 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 ### 🚀 Stats GitHub
 ![Stats](https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical)
-
-### 🔥 Langages
-![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical)
 
 
 
