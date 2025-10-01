@@ -59,6 +59,10 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 ![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
 
+### 🚀 Mes Stats GitHub
+![Mes Stats](https://github-readme-stats.vercel.app/api?username=SKH1995&show_icons=true&theme=radical)
+
+
 ---
 
 📫 Contact : **ton.email@example.com**
