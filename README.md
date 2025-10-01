@@ -77,6 +77,9 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ### 🔥 Langages
 ![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical)
 
+![Stats](https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical)
+
+
 
 
 
