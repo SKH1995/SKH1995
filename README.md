@@ -69,7 +69,8 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ![Streak](https://streak-stats.demolab.com?user=SKH1995&theme=radical&hide_border=true)
 
 ### zzzzzzzz
-![Mes Stats]([https://YOUR_VERCEL_PROJECT_NAME.vercel.app](https://vercel.com/skh1995s-projects/github-readme-stats)/api?username=TON_USERNAME&count_private=true&show_icons=true&theme=radical)
+![Mes Stats](github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical)
+
 
 
 ---
