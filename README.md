@@ -55,6 +55,10 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 ---
 
+## 📈 Tech Stack
+
+---
+
 ## 🐍 Mon activité GitHub
 
 ![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
